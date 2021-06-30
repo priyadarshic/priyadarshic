@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @priyadarshic
 - 👀 I’m interested in working with interesting Data, Java or Python.
 - 🌱 I’m currently learning Python/Pandas/Seaborn
-- 💞️ I’m looking to collaborate on Data projects
+- 💞️ I’m looking to collaborate on Data, Python and Java Concurrency projects
 - 📫 How to reach me priyadarshi.c@gmail.com
 
 <!---
