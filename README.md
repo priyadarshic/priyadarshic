@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @priyadarshic
 - 👀 I’m interested in working on interesting CoreJava or Python OpenCV | Data Analysis projects.
 - 🌱 I’m currently learning Python/Pandas/Seaborn
-- 💞️ I’m looking to collaborate on Data, Python and Java Concurrency projects
+- 💞️ I’m looking to collaborate on Python, OpenCV, Java Concurrency projects
 - 📫 How to reach me priyadarshi.c@gmail.com
 
 <!---
