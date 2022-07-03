@@ -1,7 +1,7 @@
 ### Python and Java Developer
 
 - 👋 Hi, I’m @priyadarshic
-- 👀 Interests: CoreJava MultiThreading | Python OpenCV | Data Analysis.
+- 👀 Interests: CoreJava | MultiThreading | Python | OpenCV | Data 
 - 💞️ I’m looking to collaborate on Java Concurrency, Python - OpenCV, NumPy based projects
 - 📫 How to reach me priyadarshi.c@gmail.com
 ---
