@@ -1,7 +1,7 @@
-### Python and Java Developer
+### Learning whatever Intersts me
 
 - 👋 Hi, I’m @pixelcloud
-- 👀 Interests: CoreJava | MultiThreading | Python | OpenCV | Data 
+- 👀 Interests: Blender | Unity | CoreJava | MultiThreading | Python | OpenCV | Data | ROS
 - 💞️ I’m looking to collaborate on Java Concurrency, Python - OpenCV, NumPy based projects
 - 📫 How to reach me priyadarshi.c@gmail.com
 ---
