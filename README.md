@@ -1,4 +1,4 @@
-### Learning whatever Intersts me
+### Learning whatever Interests me
 
 - 👋 Hi, I’m @pixelcloud
 - 👀 Interests: Blender | Unity | CoreJava | MultiThreading | Python | OpenCV | Data | ROS
