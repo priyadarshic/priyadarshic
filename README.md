@@ -1,8 +1,8 @@
-### Learning whatever Interests me
+### Learning is Lifelong
 
 - 👋 Hi, I’m @pixelcloud
-- 👀 Interests: Blender | Unity | CoreJava | MultiThreading | Python | OpenCV | Data | ROS
-- 💞️ I’m looking to collaborate on Java Concurrency, Python - OpenCV, NumPy based projects
+- 👀 Interests: CoreJava | MultiThreading | SpringBoot | Microservices | Python | OpenCV | AI | Blender | Unity | ROS
+- 💞️ I’m looking to collaborate on Java SpringBoot, Python - OpenCV based projects
 - 📫 How to reach me priyadarshi.c@gmail.com
 ---
 
